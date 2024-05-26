@@ -1,0 +1,16 @@
+br\ufscar\dc\dsw\controller\CompraController.class
+br\ufscar\dc\dsw\domain\Produto.class
+br\ufscar\dc\dsw\dao\UsuarioDAO.class
+br\ufscar\dc\dsw\domain\Fornecedor.class
+br\ufscar\dc\dsw\controller\UsuarioController.class
+br\ufscar\dc\dsw\util\Erro.class
+br\ufscar\dc\dsw\controller\IndexController.class
+br\ufscar\dc\dsw\AcessaBD.class
+br\ufscar\dc\dsw\controller\ProdutoController.class
+br\ufscar\dc\dsw\dao\FornecedorDAO.class
+br\ufscar\dc\dsw\domain\Usuario.class
+br\ufscar\dc\dsw\dao\CompraDAO.class
+br\ufscar\dc\dsw\dao\ProdutoDAO.class
+br\ufscar\dc\dsw\dao\GenericDAO.class
+br\ufscar\dc\dsw\controller\FornecedorController.class
+br\ufscar\dc\dsw\domain\Compra.class
